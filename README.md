@@ -1,6 +1,6 @@
 # About me
 
-- 👋 Hi, I’m @hellohely or in real life, Henrietta Lybeck.
+- 👋 Hi, I’m @hellohely or in real life, Henrietta Lybeck
 - 👀 I’m interested in coding and dogs, basically 
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 
