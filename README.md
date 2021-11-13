@@ -1,8 +1,8 @@
-# About me
+# Hello, stranger
 
-- 👋 Hi, I’m @hellohely or in real life, Henrietta Lybeck
-- 👀 I’m interested in coding and dogs, basically 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👋 I’m @hellohely or in real life, Henrietta Lybeck
+- 💖 I like dogs, coding and coffe
+- 🤓 I’m a Front End student graduating in spring 2023
 
 <!---
 hellohely/hellohely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
