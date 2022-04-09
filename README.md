@@ -1,7 +1,7 @@
 # Hello, stranger
 
 - 👋 I’m @hellohely or in real life, Henrietta Lybeck
-- 💖 I like dogs, coding, memes and coffe
+- 💖 I like dogs, coding, memes and coffee
 - 🤓 I’m a Front End student graduating in spring 2023
 
 <!---
